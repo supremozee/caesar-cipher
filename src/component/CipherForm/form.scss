@@ -1,0 +1,10 @@
+$primary-color: #4caf50;
+$secondary-color: #f44336;
+
+.btn-primary {
+    @apply bg-[#4caf50] text-white;
+}
+
+.btn-secondary {
+    @apply bg-[#f44336] text-white;
+}
